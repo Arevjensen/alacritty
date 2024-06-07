@@ -10,3 +10,6 @@ startup_mode = "Maximized"
 bindings = [
    { key = "Return", mods = "Control|Shift", action = "SpawnNewInstance" }
 ]
+
+[shell]
+program = "/usr/bin/fish"
